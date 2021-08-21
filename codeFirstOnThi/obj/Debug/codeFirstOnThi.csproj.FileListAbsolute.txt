@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.GUI.Main.resources
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.GUI.SVForm.resources
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\bin\Debug\codeFirstOnThi.exe.config
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\bin\Debug\codeFirstOnThi.exe
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\bin\Debug\codeFirstOnThi.pdb
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.csproj.CopyComplete
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.exe
+C:\Users\ASUS\source\repos\codeFirstOnThi\codeFirstOnThi\obj\Debug\codeFirstOnThi.pdb
